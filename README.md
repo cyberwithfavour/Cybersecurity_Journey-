@@ -1,2 +1,2 @@
 # Cybersecurity_Journey-
-Soon
+My journey from beginner to Cybersecurity Analyst and Cloud Security Professional.
