@@ -1,16 +1,16 @@
-Day 1 - Introduction to Cybersecurity
+# Day 1 - Introduction to Cybersecurity
 
-What I Learned
+## Topics Covered
+- CIA Triad
+- SOC Overview
+- Blue Team
+- Red Team
+- Cyber Threats
 
-* Cybersecurity protects systems, networks, and data.
-* The CIA Triad consists of Confidentiality, Integrity, and Availability.
-* SOC analysts monitor security alerts and investigate threats.
+## Key Takeaways
+Cybersecurity protects systems, networks, and data from attacks.
 
-Skills Practiced
-
-* Created my GitHub repository.
-* Started my cybersecurity learning journal.
-
-Goal for Tomorrow
-
-Learn computer hardware, operating systems, and virtualization.
+The CIA Triad consists of:
+- Confidentiality
+- Integrity
+- Availability
