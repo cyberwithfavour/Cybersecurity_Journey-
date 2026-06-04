@@ -15,6 +15,7 @@
 - [x] Learned Operating System Fundamentals
 - [x] Installed VirtualBox
 - [x] Installed Ubuntu Linux VM
+- [x] notes and screenshots in the Day-02 folder.
 
 ### Day 3 – Linux File System & Navigation
 - [x] Learned Linux Directory Structure
@@ -22,6 +23,7 @@
 - [x] Understood Important Linux Directories
 - [x] Practiced File System Navigation
 - [x] Used pwd, ls and cd Commands
+- [x] notes and screenshots in the Day-03 folder.
 
 ### Day 4 – Linux Commands & File Management
 - [x] Created and Managed Files
@@ -29,6 +31,7 @@
 - [x] Practiced cp, mv and rm Commands
 - [x] Viewed File Content with cat
 - [x] Searched Files Using grep
+- [x] notes and screenshots in the Day-04 folder.
 
 ### Day 5 – Linux Users, Groups & Permissions
 - [x] Learned Linux Users and Groups
@@ -36,6 +39,7 @@
 - [x] Learned Read, Write & Execute Permissions
 - [x] Practiced chmod and chown
 - [x] Learned Principle of Least Privilege
+- [x] notes and screenshots in the Day-05 folder.
 
 ### Day 6 – Linux Processes & System Monitoring
 - [x] Learned Linux Processes
@@ -43,6 +47,7 @@
 - [x] Monitored Processes Using ps and ps aux
 - [x] Monitored System Activity Using top
 - [x] Learned SOC Monitoring Fundamentals
+- [x] notes and screenshots in the Day-06 folder.
 
 ### Day 7 – Weekly Review & Assessment
 - [ ] Complete Week 1 Review
