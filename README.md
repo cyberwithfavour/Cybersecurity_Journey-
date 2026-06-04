@@ -1,73 +1,77 @@
-# 90-Day Cybersecurity Analyst Journey
+# Cybersecurity Journey
 
-## Goal
+## Progress Tracker
 
-Become a Cybersecurity Analyst, SOC Analyst, and Cloud Security Analyst.
+### Day 1 – Cybersecurity Fundamentals
+- [x] Learned Cybersecurity Basics
+- [x] Understood CIA Triad
+- [x] Learned Threats, Vulnerabilities & Risks
+- [x] Explored Security Controls
+- [x] Started Cybersecurity Learning Journal
 
----
+### Day 2 – Hardware, Operating Systems & Virtualization
+- [x] Learned Computer Hardware Components
+- [x] Understood CPU, RAM & Storage
+- [x] Learned Operating System Fundamentals
+- [x] Installed VirtualBox
+- [x] Installed Ubuntu Linux VM
 
-## Current Progress
+### Day 3 – Linux File System & Navigation
+- [x] Learned Linux Directory Structure
+- [x] Explored Root Directory (/)
+- [x] Understood Important Linux Directories
+- [x] Practiced File System Navigation
+- [x] Used pwd, ls and cd Commands
 
-- [x] Day 1 – Introduction to Cybersecurity
-- [x] Day 2 – Hardware, Operating Systems & Virtualization
-- [ ] Day 3 – Linux Fundamentals & Command Line
-- [ ] Day 4 – Linux File System & Navigation
-- [ ] Day 5 – Linux Permissions & Users
+### Day 4 – Linux Commands & File Management
+- [x] Created and Managed Files
+- [x] Created and Managed Directories
+- [x] Practiced cp, mv and rm Commands
+- [x] Viewed File Content with cat
+- [x] Searched Files Using grep
 
----
+### Day 5 – Linux Users, Groups & Permissions
+- [x] Learned Linux Users and Groups
+- [x] Understood File Ownership
+- [x] Learned Read, Write & Execute Permissions
+- [x] Practiced chmod and chown
+- [x] Learned Principle of Least Privilege
 
-## Day 1 Achievements
+### Day 6 – Linux Processes & System Monitoring
+- [x] Learned Linux Processes
+- [x] Understood Process IDs (PID)
+- [x] Monitored Processes Using ps and ps aux
+- [x] Monitored System Activity Using top
+- [x] Learned SOC Monitoring Fundamentals
 
-- Learned Cybersecurity Fundamentals
-- Understood the CIA Triad
-- Learned SOC Concepts
-- Created GitHub Learning Journal
-- Created Cybersecurity Career Roadmap
-
----
-
-## Day 2 Achievements
-
-- Learned Computer Hardware Fundamentals
-- Learned Operating Systems Concepts
-- Learned Virtualization Concepts
-- Installed Oracle VirtualBox
-- Started Ubuntu Linux Setup
-- Created Cybersecurity Lab Plan
-
----
-
-## Certifications Planned
-
-- ISC2 Certified in Cybersecurity (CC)
-- Microsoft SC-900
-- CompTIA Security+
-- Microsoft SC-200
-- AWS Cloud Practitioner
-- AWS Security Specialty
-
----
-
-## Repository Structure
-
-Cybersecurity_Journey/
-
-├── Day01/
-
-├── Day02/
-
-├── Day03/
-
-├── Projects/
-
-├── Certifications/
-
-└── Resources/
+### Day 7 – Weekly Review & Assessment
+- [ ] Complete Week 1 Review
+- [ ] Complete 100-Question ISC2-Style Exam
+- [ ] Complete Week 1 Practical Project
+- [ ] Upload Documentation to GitHub
 
 ---
 
-## Current Status
+## Certifications Roadmap
 
-Day 2 Complete ✅
+- [ ] ISC2 Certified in Cybersecurity (CC)
+- [ ] Microsoft SC-900
+- [ ] CompTIA Security+
+- [ ] AWS Cloud Practitioner
+- [ ] Microsoft SC-200
+- [ ] AWS Security Specialty
 
-Next Milestone: Day 3 – Linux Fundamentals & Command Line
+---
+
+## Portfolio Projects
+
+- [ ] Cybersecurity Learning Journal
+- [ ] Home Security Lab
+- [ ] Linux Administration Lab
+- [ ] SOC Monitoring Lab
+- [ ] Threat Hunting Project
+- [ ] Incident Response Playbook
+- [ ] Microsoft Sentinel Project
+- [ ] AWS Security Project
+- [ ] Azure Security Project
+- [ ] Final Capstone Project
