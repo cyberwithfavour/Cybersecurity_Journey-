@@ -1,0 +1,1 @@
+Today I understood how Linux organizes files and directories in a hierarchical structure. This helped me understand where system files, user files, and logs are stored. This knowledge is important for SOC analysts when investigating incidents or tracking malicious files
