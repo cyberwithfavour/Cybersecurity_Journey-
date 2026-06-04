@@ -1,0 +1,8 @@
+Exercises
+
+* Checked user using whoami
+* Checked groups using groups
+* Created file using touch
+* Viewed permissions using ls -l
+* Changed permissions using chmod 755
+* Observed file ownership
