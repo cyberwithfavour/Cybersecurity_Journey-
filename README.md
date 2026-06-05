@@ -49,14 +49,69 @@
 - [x] Learned SOC Monitoring Fundamentals
 - [x] notes and screenshots in the Day-06 folder.
 
-### Day 7 – Weekly Review & Assessment
-- [ ] Complete Week 1 Review
-- [ ] Complete 100-Question ISC2-Style Exam
-- [ ] Complete Week 1 Practical Project
-- [ ] Upload Documentation to GitHub
+### Day 7
+
+- [x] Week 1 Review
+
+- [x] 100-Question ISC2 CC Style Assessment
+
+- [x] Linux Security & System Investigation Project
+
+## Weekly Project
+
+### Linux Security & System Investigation
+
+Completed:
+
+- [x] User Identification
+
+- [x] Group Investigation
+
+- [x] File Creation & Management
+
+- [x] Permission Analysis
+
+- [x] Process Monitoring
+
+- [x] Linux Log Investigation
+
+- [x] Authentication & Authorization Review
+
+## Key Takeaways
+
+- Built a strong Linux foundation.
+
+- Learned how permissions secure systems.
+
+- Understood process monitoring from a SOC perspective.
+
+- Explored Linux logs and their importance in security investigations.
+
+- Strengthened cybersecurity fundamentals.
+
+## Next Week
+
+- [x] Networking Fundamentals
+
+- [x] OSI Model
+
+- [x] TCP/IP Model
+
+- [x] Ports & Protocols
+
+- [x] Network Devices
+
+- [x] Network Security Basics
 
 ---
 
+- [x] Week 1 Complete 
+
+Score: 95/100
+
+- [x] Project Completed ✅
+
+Ready for Week 2 🚀
 ## Certifications Roadmap
 
 - [ ] ISC2 Certified in Cybersecurity (CC)
