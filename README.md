@@ -89,19 +89,19 @@ Completed:
 
 - Strengthened cybersecurity fundamentals.
 
-## Next Week
+## Week 2
 
-- [x] Networking Fundamentals
+- [ ] Networking Fundamentals
 
-- [x] OSI Model
+- [ ] OSI Model
 
-- [x] TCP/IP Model
+- [ ] TCP/IP Model
 
-- [x] Ports & Protocols
+- [ ] Ports & Protocols
 
-- [x] Network Devices
+- [ ] Network Devices
 
-- [x] Network Security Basics
+- [ ] Network Security Basics
 
 ---
 
@@ -111,7 +111,7 @@ Score: 95/100
 
 - [x] Project Completed ✅
 
-Ready for Week 2 🚀
+
 ## Certifications Roadmap
 
 - [ ] ISC2 Certified in Cybersecurity (CC)
