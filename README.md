@@ -127,7 +127,7 @@ Score: 95/100
 
 - [ ] Cybersecurity Learning Journal
 - [ ] Home Security Lab
-- [ ] Linux Administration Lab
+- [x] Linux Administration Lab(in progress)
 - [ ] SOC Monitoring Lab
 - [ ] Threat Hunting Project
 - [ ] Incident Response Playbook
