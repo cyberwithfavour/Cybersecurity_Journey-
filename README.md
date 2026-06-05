@@ -56,7 +56,24 @@
 - [x] 100-Question ISC2 CC Style Assessment
 
 - [x] Linux Security & System Investigation Project
+## Week 1 Assessment Results
 
+| Assessment | Score | Grade | Status |
+|------------|--------|--------|--------|
+| ISC2 CC Mock Exam (Q1–50) | 46/50 | A | ✅ |
+| ISC2 CC Mock Exam (Q51–100) | 49/50 | A+ | ✅ |
+| Final Result | 95/100 | A+ | ✅ |
+
+### Performance Summary
+
+| Category | Rating |
+|-----------|----------|
+| Cybersecurity Fundamentals | Excellent |
+| Linux Fundamentals | Excellent |
+| Linux Permissions | Excellent |
+| Authentication & Authorization | Good |
+| Process Monitoring | Excellent |
+| SOC Concepts | Excellent |
 ## Weekly Project
 
 ### Linux Security & System Investigation
