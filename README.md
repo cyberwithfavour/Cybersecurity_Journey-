@@ -15,7 +15,7 @@
 - [x] Learned Operating System Fundamentals
 - [x] Installed VirtualBox
 - [x] Installed Ubuntu Linux VM
-- [x] notes and screenshots in the Day-02 folder.
+- [x] Notes and screenshots in the Day-02 folder
 
 ### Day 3 – Linux File System & Navigation
 - [x] Learned Linux Directory Structure
@@ -23,7 +23,7 @@
 - [x] Understood Important Linux Directories
 - [x] Practiced File System Navigation
 - [x] Used pwd, ls and cd Commands
-- [x] notes and screenshots in the Day-03 folder.
+- [x] Notes and screenshots in the Day-03 folder
 
 ### Day 4 – Linux Commands & File Management
 - [x] Created and Managed Files
@@ -31,7 +31,7 @@
 - [x] Practiced cp, mv and rm Commands
 - [x] Viewed File Content with cat
 - [x] Searched Files Using grep
-- [x] notes and screenshots in the Day-04 folder.
+- [x] Notes and screenshots in the Day-04 folder
 
 ### Day 5 – Linux Users, Groups & Permissions
 - [x] Learned Linux Users and Groups
@@ -39,7 +39,7 @@
 - [x] Learned Read, Write & Execute Permissions
 - [x] Practiced chmod and chown
 - [x] Learned Principle of Least Privilege
-- [x] notes and screenshots in the Day-05 folder.
+- [x] Notes and screenshots in the Day-05 folder
 
 ### Day 6 – Linux Processes & System Monitoring
 - [x] Learned Linux Processes
@@ -47,15 +47,13 @@
 - [x] Monitored Processes Using ps and ps aux
 - [x] Monitored System Activity Using top
 - [x] Learned SOC Monitoring Fundamentals
-- [x] notes and screenshots in the Day-06 folder.
+- [x] Notes and screenshots in the Day-06 folder
 
-### Day 7
-
+### Day 7 – Weekly Assessment & Linux Security Investigation
 - [x] Week 1 Review
+- [x] Completed 100-Question ISC2 CC Style Assessment
+- [x] Completed Linux Security & System Investigation Project
 
-- [x] 100-Question ISC2 CC Style Assessment
-
-- [x] Linux Security & System Investigation Project
 ## Week 1 Assessment Results
 
 | Assessment | Score | Grade | Status |
@@ -74,60 +72,109 @@
 | Authentication & Authorization | Good |
 | Process Monitoring | Excellent |
 | SOC Concepts | Excellent |
-## Weekly Project
 
-### Linux Security & System Investigation
+---
+
+# Week 2
+
+### Day 8 – Networking Fundamentals
+- [x] Learned Networking Basics
+- [x] Understood IP Addresses
+- [x] Learned Public vs Private IP Addresses
+- [x] Learned DNS Fundamentals
+- [x] Learned Default Gateway Concepts
+- [x] Practiced Basic Network Troubleshooting
+- [x] Notes and screenshots in the Day-08 folder
+
+### Day 9 – OSI Model Fundamentals
+- [x] Learned the 7 Layers of the OSI Model
+- [x] Understood Encapsulation & Decapsulation
+- [x] Learned Layer Responsibilities
+- [x] Connected OSI Layers to Real-World Networking
+- [x] Notes and screenshots in the Day-09 folder
+
+### Day 10 – Git & GitHub Fundamentals
+- [x] Installed Git
+- [x] Configured Git Username & Email
+- [x] Initialized Local Repository
+- [x] Created First Commit
+- [x] Learned Git Workflow
+- [x] Connected Local Repository to GitHub
+- [x] Pushed Code to GitHub
+- [x] Notes and screenshots in the Day-10 folder
+
+### Day 11 – Network Devices & Security
+- [x] Learned Routers
+- [x] Learned Switches
+- [x] Learned Hubs
+- [x] Learned Firewalls
+- [x] Learned IDS & IPS
+- [x] Learned VPNs
+- [x] Learned Network Segmentation
+- [x] Notes and screenshots in the Day-11 folder
+
+### Day 12 – Ports, Protocols & Network Services
+- [x] Learned TCP vs UDP
+- [x] Learned Common Ports & Protocols
+- [x] Learned DNS
+- [x] Learned DHCP
+- [x] Learned HTTP & HTTPS
+- [x] Learned SSH
+- [x] Practiced Network Service Enumeration
+- [x] Used ss Command
+- [x] Used ping Command
+- [x] Used nslookup Command
+- [x] Explored /etc/services
+- [x] Notes and screenshots in the Day-12 folder
+
+---
+
+## Week 2 Progress
+
+- [x] Networking Fundamentals
+- [x] OSI Model
+- [x] Git & GitHub Fundamentals
+- [x] Ports & Protocols
+- [x] Network Devices
+- [x] Network Security Basics
+
+---
+
+## Weekly Projects
+
+### Week 1 Project – Linux Security & System Investigation
 
 Completed:
 
 - [x] User Identification
-
 - [x] Group Investigation
-
 - [x] File Creation & Management
-
 - [x] Permission Analysis
-
 - [x] Process Monitoring
-
 - [x] Linux Log Investigation
-
 - [x] Authentication & Authorization Review
 
-## Key Takeaways
+### Week 2 Project – Network Fundamentals Lab
 
-- Built a strong Linux foundation.
+Completed:
 
-- Learned how permissions secure systems.
-
-- Understood process monitoring from a SOC perspective.
-
-- Explored Linux logs and their importance in security investigations.
-
-- Strengthened cybersecurity fundamentals.
-
-## Week 2
-
-- [ ] Networking Fundamentals
-
-- [ ] OSI Model
-
-- [ ] TCP/IP Model
-
-- [ ] Ports & Protocols
-
-- [ ] Network Devices
-
-- [ ] Network Security Basics
+- [x] Network Connectivity Testing
+- [x] DNS Resolution Testing
+- [x] Service Enumeration
+- [x] Port Investigation
+- [x] Git & GitHub Setup
+- [x] VirtualBox Network Troubleshooting
 
 ---
 
-- [x] Week 1 Complete 
+## Current Progress
 
-Score: 95/100
+- [x] Week 1 Complete
+- [x] Week 2 Complete
 
-- [x] Project Completed ✅
+**Current Day:** Day 12 / Day 90
 
+---
 
 ## Certifications Roadmap
 
@@ -142,9 +189,10 @@ Score: 95/100
 
 ## Portfolio Projects
 
-- [ ] Cybersecurity Learning Journal
-- [ ] Home Security Lab
-- [x] Linux Administration Lab(in progress)
+- [x] Cybersecurity Learning Journal
+- [x] Home Security Lab
+- [x] Linux Administration Lab
+- [x] Network Fundamentals Lab
 - [ ] SOC Monitoring Lab
 - [ ] Threat Hunting Project
 - [ ] Incident Response Playbook
@@ -152,3 +200,13 @@ Score: 95/100
 - [ ] AWS Security Project
 - [ ] Azure Security Project
 - [ ] Final Capstone Project
+
+---
+
+## GitHub Statistics
+
+- Days Completed: 12/90
+- Assessments Completed: 1
+- Projects Completed: 2
+- GitHub Repositories Created: 1+
+- Current Focus: Networking & SOC Foundations
